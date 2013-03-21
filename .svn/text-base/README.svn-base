@@ -1,0 +1,24 @@
+Asteroids v1.0b
+
+
+To MAKE the entire project
+1)Open up a terminal and come to the current directory
+2)Then in the terminal run the command
+>make clean
+3)Then run the command
+>make
+4)Once it has finished creating all the classes run the command
+>java Asteroids
+
+VOILA! Asteroids is running!
+
+
+Keyboard buttons that currently work :
+1)ESC - Pauses the game
+	a) Left/Right  	Increment/Decrement values
+	b) Enter		Toggle State
+2)E - Exits from the game
+3)UP/DOWN/LEFT/RIGHT arrows - moves the spaceship around the screen
+4)0 (NUM PAD) - Shoots bullets from the spaceship
+5)W/A/S/D - moves second player in MULTIPLAYER
+6)SPACE - fires bullets for second player
